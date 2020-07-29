@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them, In the Land of Mordor where the Shadows lie."}
+        videoDescription={"MordorFlix foi criada para os adimiradores do mundo de JRR Tolkien, com o intuito de reunir em um só espaço toda a magia da Terra Média. Aproveitem!  "}
       />
 
       <Carousel
